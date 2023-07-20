@@ -1,3 +1,4 @@
+this is the code to be reviewd
 import React from 'react'
 import './about.css'
 import {BsAwardFill} from 'react-icons/bs'
