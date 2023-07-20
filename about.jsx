@@ -11,7 +11,6 @@ import img3 from '../../assets/img3.jpg';
 import img4 from '../../assets/img2.jpg';
 import img5 from '../../assets/img3.jpg';
 
-
 const images = [
   img1,
   img2,
